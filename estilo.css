@@ -1,0 +1,32 @@
+h2 {
+    color: rgb(124, 196, 124);
+    text-align: center;
+  }
+    p {color:rgb(0, 0, 0);
+  text-align: center;}
+    header {
+    padding: 40px;
+    text-align: center;
+    background: #404940;
+    color: rgb(255, 248, 248);
+    font-size: 25px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    font-family:inherit
+  }
+   button{
+    color: rgb(153, 235, 106);
+    padding: 10px 20px;
+    display:ruby-text-container;
+    font-size: 16px;
+    border-color:rgb(114, 146, 55);
+    border-style: dashed;
+    justify-content:center;
+  }
+  h3 { text-align: center;
+    color:rgb(180, 155, 229)
+
+}
+  
